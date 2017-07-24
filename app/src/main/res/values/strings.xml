@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">VideoPlay</string>
+    <string name="title_activity_video_call">VideoCallActivity</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="error_player">There was an error initializing the YouTubePlayer (%1$s)</string>
+
+</resources>
